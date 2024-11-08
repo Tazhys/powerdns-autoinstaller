@@ -54,7 +54,3 @@ You can modify the `EXTERNAL_SUBNET` and `EXTRA_IP` variables in the script to s
   ```bash
   curl -k -H "X-API-Key: <your_api_key>" https://<your-server-ip>:8081/api/v1/servers
   ```
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
